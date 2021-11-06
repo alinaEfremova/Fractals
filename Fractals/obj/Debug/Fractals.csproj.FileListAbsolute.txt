@@ -1,0 +1,19 @@
+c:\users\алина\documents\visual studio 2015\Projects\Fractals\Fractals\bin\Debug\Fractals.exe.config
+c:\users\алина\documents\visual studio 2015\Projects\Fractals\Fractals\bin\Debug\Fractals.exe
+c:\users\алина\documents\visual studio 2015\Projects\Fractals\Fractals\bin\Debug\Fractals.pdb
+c:\users\алина\documents\visual studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+c:\users\алина\documents\visual studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.Form1.resources
+c:\users\алина\documents\visual studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+c:\users\алина\documents\visual studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.csproj.GenerateResource.Cache
+c:\users\алина\documents\visual studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.exe
+c:\users\алина\documents\visual studio 2015\Projects\Fractals\Fractals\obj\Debug\Fractals.pdb
+C:\Users\Алина\Downloads\Projects\Fractals\Fractals\bin\Debug\Fractals.exe.config
+C:\Users\Алина\Downloads\Projects\Fractals\Fractals\bin\Debug\Fractals.exe
+C:\Users\Алина\Downloads\Projects\Fractals\Fractals\bin\Debug\Fractals.pdb
+C:\Users\Алина\Downloads\Projects\Fractals\Fractals\obj\Debug\Fractals.csprojResolveAssemblyReference.cache
+C:\Users\Алина\Downloads\Projects\Fractals\Fractals\obj\Debug\Fractals.Form1.resources
+C:\Users\Алина\Downloads\Projects\Fractals\Fractals\obj\Debug\Fractals.Properties.Resources.resources
+C:\Users\Алина\Downloads\Projects\Fractals\Fractals\obj\Debug\Fractals.csproj.GenerateResource.Cache
+C:\Users\Алина\Downloads\Projects\Fractals\Fractals\obj\Debug\Fractals.csproj.CoreCompileInputs.cache
+C:\Users\Алина\Downloads\Projects\Fractals\Fractals\obj\Debug\Fractals.exe
+C:\Users\Алина\Downloads\Projects\Fractals\Fractals\obj\Debug\Fractals.pdb
